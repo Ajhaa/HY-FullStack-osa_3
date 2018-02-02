@@ -1,0 +1,23 @@
+{
+  "name": "fullstack_3",
+  "version": "0.0.1",
+  "description": "\"School stuff\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajhaa/HY-FullStack-osa_3.git"
+  },
+  "author": "Atte Haarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajhaa/HY-FullStack-osa_3/issues"
+  },
+  "homepage": "https://github.com/Ajhaa/HY-FullStack-osa_3#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
