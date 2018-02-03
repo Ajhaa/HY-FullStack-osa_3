@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "watch": "node_modules/.bin/nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "peers": "npm-install-peers"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.2",
+    "heroku-cli": "^6.15.22",
     "morgan": "^1.9.0"
   },
   "devDependencies": {
